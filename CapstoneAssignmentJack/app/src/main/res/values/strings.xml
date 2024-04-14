@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CapstoneAssignmentJack</string>
+    <string name="game_begins">Game begins now!!!</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="home">home</string>
+    <string name="timer">Timer</string>
+    <string name="popup_home">Pop-up</string>
+    <string name="makepopup">Make pop-up</string>
+    <string name="settimer">Set timer</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="ratingtext">You can give yourself a rating</string>
+    <string name="zerostars">I\'m sorry if I failed you horribly. I will take this personally</string>
+    <string name="onestar">1 of 3 is not fine, but better than nothing, I hope you\'ll improve</string>
+    <string name="twostars">Significant is a pass in my book. It can never hurt to go for 3 stars though</string>
+    <string name="threestars">Very good, thank you for not being addicted, mission accomplished!</string>
+    <string name="confirm">Confirm</string>
+    <string name="historyscreen">Go to reward history screen</string>
+    <string name="deleteall">Delete all rewards</string>
+    <string name="deleteallpopups">Delete all popup\'s</string>
+    <string name="allConfirm">All timer settings are confirmt!</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="hastobehours">Hours have to be 0-24.</string>
+    <string name="vibrate">"Vibrate "</string>
+    <string name="hastobeminutes">Minutes have to be 0-59.</string>
+    <string name="hastobeseconds">Seconds have to be 0-59.</string>
+    <string name="error">ERROR</string>
+    <string name="stopservice">Stop Float Widget Service</string>
+    <string name="startservice">Change Text in Float Widget</string>
+    <string name="changetext">Change Text in Float Widget</string>
+    <string name="applysize">Apply Size</string>
+    <string name="applycolor">Apply Color</string>
+</resources>
